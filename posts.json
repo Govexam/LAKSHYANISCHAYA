@@ -1,0 +1,13 @@
+[
+    {
+        "title": "New Course Announced!",
+        "excerpt": "We are excited to announce our new course on advanced government exam preparation. Enroll now and get ahead!",
+        "url": "new-course.html"
+    },
+    {
+        "title": "Exam Tips and Tricks",
+        "excerpt": "Check out our latest blog post with valuable tips and tricks to ace your upcoming exams.",
+        "url": "exam-tips.html"
+    }
+    // Add more posts as needed
+]
